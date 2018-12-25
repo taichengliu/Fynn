@@ -4,5 +4,6 @@ public class tony {
         System.out.println("77777777777");
         System.out.println("555555");
         System.out.println("rrr");
+        System.out.println("56666");
     }
 }
