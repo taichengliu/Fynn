@@ -7,7 +7,8 @@ public class tony {
         System.out.println("rrr");
         System.out.println("56666");
         System.out.println("Test1");
-		sout("骑上北极熊去驰骋疆场吧");
+        System.out.println("2222");
+        System.out.println("骑上北极熊去驰骋疆场吧");
     }
 		
 }
